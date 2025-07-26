@@ -271,3 +271,4 @@ D:\projets\persos\CounterApp\CounterAppBack\obj\Debug\net8.0\CounterAppBack.pdb
 D:\projets\persos\CounterApp\CounterAppBack\obj\Debug\net8.0\CounterAppBack.genruntimeconfig.cache
 D:\projets\persos\CounterApp\CounterAppBack\obj\Debug\net8.0\ref\CounterAppBack.dll
 D:\projets\persos\CounterApp\CounterAppBack\bin\Debug\net8.0\CounterAppBack.staticwebassets.runtime.json
+D:\projets\persos\CounterApp\CounterAppBack\obj\Debug\net8.0\CounterAppBack.sourcelink.json
